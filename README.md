@@ -12,7 +12,7 @@ Este es un pequeño script en Bash que detecta automáticamente si tu distribuci
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/linux-distro-updater.git
+   git clone https://github.com/AndresT16/Actualizador_Linux.git
    cd linux-distro-updater
    chmod +x actualizador.sh
    ./actualizador.sh
