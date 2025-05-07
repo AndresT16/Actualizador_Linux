@@ -1,4 +1,4 @@
-# Linux Distro actualizador
+# Linux Distro Actualizador
 
 Este es un pequeño script en Bash que detecta automáticamente si tu distribución de Linux está basada en **Arch** o en **Debian/Ubuntu**, y ejecuta el gestor de paquetes adecuado para actualizar el sistema.
 
@@ -13,7 +13,7 @@ Este es un pequeño script en Bash que detecta automáticamente si tu distribuci
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/AndresT16/Actualizador_Linux.git
-   cd linux-distro-updater
+   cd Actualizador_Linux
    chmod +x actualizador.sh
    ./actualizador.sh
 
